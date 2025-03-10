@@ -1,7 +1,7 @@
 {
-  "name": "galaxy",
+  "name": "lavender",
   "version": "1.0.0",
-  "description": "A stunning web proxy with support for many popular sites.",
+  "description": "A proxy skidded off galaxy.",
   "repository": "https://github.com/cognetwork-dev/Galaxy.git",
   "type": "module",
   "author": "Nebelung",
